@@ -1,0 +1,6 @@
+{
+    "name": "portfolio_hub/vendor",
+    "require": { "php": ">= 7.0" },
+    "authors": [ {"name": "Breno", "email": "brenodeabreu2004@gmail.com"} ],
+    "autoload": { "psr-4": { "app\\": "app/", "abstraction\\": "vendor/abstraction"} }
+}
